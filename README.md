@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-<!--
+My name is Leskov Dmitrii. I want to obtain a position in the field of analytics.
+
+[загружено (1).pdf](https://github.com/kingsize11/kingsize11/files/15200047/1.pdf)
+
+<!--[загружено (1).pdf](https://github.com/kingsize11/kingsize11/files/15200043/1.pdf)
+
 **kingsize11/kingsize11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
