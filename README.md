@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-My name is Leskov Dmitrii. I want to obtain a position in the field of analytics.
+##### My name is <b>Leskov Dmitrii</b>. 
+A future analyst with good communication and analytical skills strives to build a career in the field of analytics and improve skills. 
+Academic experience working with spreadsheets, databases and similar business software.
 
-[загружено (1).pdf](https://github.com/kingsize11/kingsize11/files/15200047/1.pdf)
+![image](https://github.com/kingsize11/kingsize11/assets/137613885/c4fd4760-9678-4b14-9e61-20fb4c5c39d4)
 
 <!--[загружено (1).pdf](https://github.com/kingsize11/kingsize11/files/15200043/1.pdf)
 
